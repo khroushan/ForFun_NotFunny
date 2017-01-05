@@ -12,3 +12,7 @@ scattering is added to the Hamiltonian. Finally the retarded Green's function is
 and no meaningful relation beside the definition is found in the structure.
 
 ### Simple sorting algorithm for 1D vector
+
+
+### Terminal Histogram
+For given integer numbers, the histogram is shown with '*'.
