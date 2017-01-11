@@ -16,3 +16,7 @@ and no meaningful relation beside the definition is found in the structure.
 
 ### Terminal Histogram
 For given integer numbers, the histogram is shown with '*'.
+
+### Cnetral Theorem
+Average of large number of independent stochastic variable results in Gaussian distribution.
+
